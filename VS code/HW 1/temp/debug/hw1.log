@@ -1,0 +1,13 @@
+﻿D:\下載\VS studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+D:\下載\VS studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  2.21.c
+  2.23.c
+  2.24.c
+  2.25.c
+  正在產生程式碼...
+  LINK : 最後的累加連結找不到或未建置 ..\..\temp\debug\hw1.exe，正在執行完整連結
+2.23.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
+2.24.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
+2.25.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
+2.26.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
+..\..\temp\debug\hw1.exe : fatal error LNK1169: 找到有一或多個已定義的符號
