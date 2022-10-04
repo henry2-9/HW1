@@ -29,5 +29,14 @@
     <ClCompile Include="..\..\source\2.27.c">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\source\2.32.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\2.31.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\2.33.c">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

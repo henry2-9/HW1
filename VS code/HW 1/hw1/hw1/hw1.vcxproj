@@ -25,6 +25,9 @@
     <ClCompile Include="..\..\source\2.25.c" />
     <ClCompile Include="..\..\source\2.26.c" />
     <ClCompile Include="..\..\source\2.27.c" />
+    <ClCompile Include="..\..\source\2.31.c" />
+    <ClCompile Include="..\..\source\2.32.c" />
+    <ClCompile Include="..\..\source\2.33.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
